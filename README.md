@@ -1,4 +1,3 @@
 # financial-models
-All financial models
-
-Now I am going to try and edit my readme file
+This repository contains all of my financial models
+For each model, when choosing to update, open a new branch titled [TICKER]-amend-branch
